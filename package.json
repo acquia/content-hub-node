@@ -1,0 +1,19 @@
+{
+    "name": "content-hub-node-client",
+    "version": "0.0.0",
+    "author": "Charu Agarwal <charu.ag6@gmail.com>",
+    "description": "Node.js client for Content Hub",
+    "dependencies": {
+        "request": "^2.65.0",
+        "crypto-browserify": "^3.0.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/acquia/content-hub-node.git"
+    },
+    "main": "./lib",
+    "engines": {
+      "node": ">= 0.10.x",
+      "npm": ">= 1.1.x"
+    }
+}
