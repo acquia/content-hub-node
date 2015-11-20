@@ -1,6 +1,6 @@
 {
   "name": "content-hub",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Charu Agarwal <charu.ag6@gmail.com>",
   "description": "Node.js client for Content Hub",
   "dependencies": {
