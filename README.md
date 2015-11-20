@@ -2,9 +2,15 @@
 
 This is a simple Node Js client library for Content Hub. It's purpose is to communicate with the Content Hub API.
 
+## Installation
+
+```
+$ npm install content-hub
+```
+
 ## Usage
 ```
-var ContentHubClient = require('../lib/content-hub.js');
+var ContentHubClient = require('content-hub');
 
 // Enter API Credentials.
 baseUrl = '';
